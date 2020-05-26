@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Youqi Chen and I am currently a rising senior at UC Berkeley majoring in Economics and Computer Science. I am passionate about the markets, and I will use this site to tracking my learning and exploration in the finance and business world.
 
-### More Information
+### Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy reading detective stories, listening to Cantopop, and hiking!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[youqichen98@berkeley.edu](mailto:youqichen98@berkeley.edu)
