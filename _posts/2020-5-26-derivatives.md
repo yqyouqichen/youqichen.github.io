@@ -5,7 +5,7 @@ title: Learning Finance - Derivatives
 
 ## **Derivative**  
 A security that derives its value from the value or return of another asset or security
-+ *Exchange Traded*: standardized, backed by a clearning house
++ *Exchange-traded*: standardized, backed by a clearning house
 + *Over-the-counter*: counterparty, defaulty risk
 
 
@@ -15,10 +15,10 @@ A legally binding promise to perform some action in the future.
 ### Forward Contracts
 One party agress to buy and the counterparty to sell a physical or financial asset at a specific price (*forward price*) on a specific date in the future.
 
-+ *Long Forward Position*: the party to the forward contract who agrees to buy the financial or physical asset
-+ *Short Forward Position*: the party to the forward contract who agrees to sell/deliver the financial or physical asset
++ *Long Forward Position*: the party to the forward contract who agrees to buy the financial or physical asset 
++ *Short Forward Position*: the party to the forward contract who agrees to sell/deliver the financial or physical asset 
 
-+ *Deliverable Forward Contract*: settled by the short delivering the underlying asset to the long
++ *Deliverable Forward Contract*: settled by the short delivering the underlying asset to the long 
 + *Cash-settled Forward Contract* / *Contracts for Differences* / *Non-deliverable Forwards (NDFs)*: pays cash based on the difference between the forward price and the market price of the underlying asset at the settlement date
 
 
