@@ -27,7 +27,7 @@ One party agress to buy and the counterparty to sell a physical or financial ass
 ### Swap
 
 ## Contingent Claim
-a claim (to a payoff) that depends on a particular event
+A claim (to a payoff) that depends on a particular event
 
 ### Options
 
