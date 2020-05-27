@@ -4,16 +4,16 @@ title: Learning Finance - Derivatives
 ---
 
 ## **Derivative**  
-a security that derives its value from the value or return of another asset or security
-+ *exchange traded*: standardized, backed by a clearning house
-+ *over-the-counter*: counterparty, defaulty risk
+A security that derives its value from the value or return of another asset or security
++ *Exchange Traded*: standardized, backed by a clearning house
++ *Over-the-counter*: counterparty, defaulty risk
 
 
 ## **Forward Commitment** 
-a legally binding promise to perform some action in the future.
+A legally binding promise to perform some action in the future.
 
 ### Forward Contracts
-one party agress to buy and the counterparty to sell a physical or financial asset at a specific price (**forward price**) on a specific date in the future.
+One party agress to buy and the counterparty to sell a physical or financial asset at a specific price (*forward price*) on a specific date in the future.
 
 + *Long Forward Position*: the party to the forward contract who agrees to buy the financial or physical asset
 + *Short Forward Position*: the party to the forward contract who agrees to sell/deliver the financial or physical asset
