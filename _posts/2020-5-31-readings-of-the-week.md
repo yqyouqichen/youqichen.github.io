@@ -7,13 +7,15 @@ Stock Market, Economy, Expectations, Hindsight Bias, Tail-end Event
 
 ## Articles
 
-### [Why is the Market Doing Well Lately?](https://obliviousinvestor.com/why-is-the-market-doing-well-lately/) from Obvious Investor
+### [Why is the Market Doing Well Lately?](https://obliviousinvestor.com/why-is-the-market-doing-well-lately/) by *Mike Piper*
 
 + **Stock Market**:
-+ **Economy**
++ **Economy**: all activities related to *production, consumption, and trade of goods and services* in an area. 
+    + *Microeconomics* studies the decisions of individuals and firms resource allocation (incentives and behaviors, utility, production theory, price); 
+    + *Macroeconomics* studies the economy-wide phenomena (inflation, rate of economic growth, income, GDP, unemployment)
 + **Expected Value of Earnings**
 
-> The value of stock amrket at any given time is essentially the market's concensus as to the present value of the expected future earnings of publicly traded companies.
+> The value of stock market at any given time is essentially the market's concensus as to the present value of the expected future earnings of publicly traded companies.
 > The stock market's valuation is based on an "expected" (i.e., probability-weighted) value of earnings
 
 ### [This is the Thing The Bears Hate Most](https://thereformedbroker.com/2020/05/26/this-is-the-thing-the-bears-hate-most/) by *Joshua M Brown*
@@ -49,4 +51,3 @@ For example,
   + **The tail-end consequences of getting hit.**
   >> In investing, the average consequences of risk make up most of the daily news headlines. But the tail-end consequences of risk - like pandemics, and depressions - are what make the pages of history books. 
   
-
