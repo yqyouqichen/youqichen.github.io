@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: edit
 title: Reading Notes - May 31, 2020
 ---
 
