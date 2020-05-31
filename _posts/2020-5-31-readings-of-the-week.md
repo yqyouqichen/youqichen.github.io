@@ -9,13 +9,16 @@ Stock Market, Economy, Expected Return, Expectations, Hindsight Bias, Tail-end E
 
 ### [Why is the Market Doing Well Lately?](https://obliviousinvestor.com/why-is-the-market-doing-well-lately/) by *Mike Piper*
 
-+ **Stock Market**: the collection of markets and exchanges where regular activities of buying, selling, and issurance of shares of *publicly-held* companies take place. The activties can take place in stock exchanges or over-the-counter(OTC). Financial securities other than equities are also traded in the stock markets. Stock market acts as *primary markets* for companies to issue and sell their shares for the first time through initial public offering (IPO); the market parcitipants then trade the securities they already own in *secondary markets*. Market indicators (e.g. S&P 500) are developed to measure the movement of the overall market.
++ **Stock Market**: the collection of markets and exchanges where regular activities of buying, selling, and issurance of shares of *publicly-held* companies take place. 
+    + The activties can take place in stock exchanges or over-the-counter(OTC). 
+    + Stock market acts as *primary markets* for companies to issue and sell their shares for the first time through initial public offering (IPO); the market parcitipants then trade the securities they already own in *secondary markets*. 
+    + Market indicators (e.g. S&P 500) are developed to measure the movement of the overall market.
 
 + **Economy**: all activities related to *production, consumption, and trade of goods and services* in an area. 
     + *Microeconomics* studies the decisions of individuals and firms resource allocation (incentives and behaviors, utility, production theory, price); 
     + *Macroeconomics* studies the economy-wide phenomena (inflation, rate of economic growth, income, GDP, unemployment)
     
-+ **Expected Return**
++ **Expected Return**: probability-weighted rates of return on an investment. It is calculated by summing up all products of potential outcome and the change of occuring. For example, if an investment has 10% chance of gaining 20%, 50% chance of gaining 10%, and 40% chance of losing 5%, the expected return is (0.1 * 20% + 0.5 * 10% + 0.4 * (-5%)) = 5% 
 
 > The value of stock market at any given time is essentially the market's concensus as to the present value of the expected future earnings of publicly traded companies.
 > The stock market's valuation is based on an "expected" (i.e., probability-weighted) value of earnings
