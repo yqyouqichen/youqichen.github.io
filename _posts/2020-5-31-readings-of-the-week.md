@@ -3,17 +3,19 @@ layout: edit
 title: Reading Notes - May 31, 2020
 ---
 
-Stock Market, Economy, Expectations, Hindsight Bias, Tail-end Event
+Stock Market, Economy, Expected Return, Expectations, Hindsight Bias, Tail-end Event
 
 ## Articles
 
 ### [Why is the Market Doing Well Lately?](https://obliviousinvestor.com/why-is-the-market-doing-well-lately/) by *Mike Piper*
 
-+ **Stock Market**:
++ **Stock Market**: the collection of markets and exchanges where regular activities of buying, selling, and issurance of shares of *publicly-held* companies take place. The activties can take place in stock exchanges or over-the-counter(OTC). Financial securities other than equities are also traded in the stock markets. Stock market acts as *primary markets* for companies to issue and sell their shares for the first time through initial public offering (IPO); the market parcitipants then trade the securities they already own in *secondary markets*. Market indicators (e.g. S&P 500) are developed to measure the movement of the overall market.
+
 + **Economy**: all activities related to *production, consumption, and trade of goods and services* in an area. 
     + *Microeconomics* studies the decisions of individuals and firms resource allocation (incentives and behaviors, utility, production theory, price); 
     + *Macroeconomics* studies the economy-wide phenomena (inflation, rate of economic growth, income, GDP, unemployment)
-+ **Expected Value of Earnings**
+    
++ **Expected Return**
 
 > The value of stock market at any given time is essentially the market's concensus as to the present value of the expected future earnings of publicly traded companies.
 > The stock market's valuation is based on an "expected" (i.e., probability-weighted) value of earnings
