@@ -9,6 +9,8 @@ Stock Market, Economy, Expected Return, Expectations, Hindsight Bias, Tail-end E
 
 ### [Why is the Market Doing Well Lately?](https://obliviousinvestor.com/why-is-the-market-doing-well-lately/) by *Mike Piper*
 
+> The value of stock market at any given time is essentially the market's concensus as to the present value of the expected future earnings of publicly traded companies.
+
 + **Stock Market**: the collection of markets and exchanges where regular activities of buying, selling, and issurance of shares of *publicly-held* companies take place. 
     + The activties can take place in stock exchanges or over-the-counter(OTC). 
     + Stock market acts as *primary markets* for companies to issue and sell their shares for the first time through initial public offering (IPO); the market parcitipants then trade the securities they already own in *secondary markets*. 
@@ -17,17 +19,19 @@ Stock Market, Economy, Expected Return, Expectations, Hindsight Bias, Tail-end E
 + **Economy**: all activities related to *production, consumption, and trade of goods and services* in an area. 
     + *Microeconomics* studies the decisions of individuals and firms resource allocation (incentives and behaviors, utility, production theory, price); 
     + *Macroeconomics* studies the economy-wide phenomena (inflation, rate of economic growth, income, GDP, unemployment)
-    
+ 
+ 
+> The stock market's valuation is based on an "expected" (i.e., probability-weighted) value of earnings 
+
 + **Expected Return**: probability-weighted rates of return on an investment. It is calculated by summing up all products of potential outcome and the change of occuring. For example, if an investment has 10% chance of gaining 20%, 50% chance of gaining 10%, and 40% chance of losing 5%, the expected return is (0.1 * 20% + 0.5 * 10% + 0.4 * (-5%)) = 5% 
 
-> The value of stock market at any given time is essentially the market's concensus as to the present value of the expected future earnings of publicly traded companies.
-> The stock market's valuation is based on an "expected" (i.e., probability-weighted) value of earnings
 
 ### [This is the Thing The Bears Hate Most](https://thereformedbroker.com/2020/05/26/this-is-the-thing-the-bears-hate-most/) by *Joshua M Brown*
 
+> One very crucial thing about market participants - they don't care about Good or Bad. [...] The only two words that matter - Better or Worse. Don't tell me employment is good or bad, tell me if its better or worse than expected. Don't tell me if Nvidia had a good quarter, tell me if it was better or worse than expectations.
+
 + **Expectation**
 
-> One very crucial thing about market participants - they don't care about Good or Bad. [...] The only two words that matter - Better or Worse. Don't tell me employment is good or bad, tell me if its better or worse than expected. Don't tell me if Nvidia had a good quarter, tell me if it was better or worse than expectations.
 
 
 ### [Hindsigh Bias Free for All](https://ritholtz.com/2020/05/hindsight-bias-free-for-all/) by *Barry Ritholtz*
@@ -43,6 +47,8 @@ For example,
 >This is why forcasting is so difficult. Markets are probabilistic mechanisms, collectively allocating capital with imperfect information about an inherently unknowable future. But that's merely *priori* issue; add to that a *posteriori*: our all too human tendency to rationalize, to misremember, to lie to ourselves, which makes learning from our failures all the more difficult.
 
 ### [A One-of-a-Kind Market Environment](https://awealthofcommonsense.com/2020/05/a-one-of-a-kind-market-environment/) by *Ben Carlson*
+
++ Market Crash
 
 > One of the reasons history doesn't repeat or rhyme is because there is always stuff happening that has never happened before.
 
