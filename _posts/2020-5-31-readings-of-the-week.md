@@ -7,7 +7,7 @@ Stock Market, Economy, Expectations, Hindsight Bias, Tail-end Event
 
 ## Articles
 
-### [Why is the Market Doing Well Lately?]() from Obvious Investor
+### [Why is the Market Doing Well Lately?](https://obliviousinvestor.com/why-is-the-market-doing-well-lately/) from Obvious Investor
 
 + **Stock Market**:
 + **Economy**
@@ -23,7 +23,7 @@ Stock Market, Economy, Expectations, Hindsight Bias, Tail-end Event
 > One very crucial thing about market participants - they don't care about Good or Bad. [...] The only two words that matter - Better or Worse. Don't tell me employment is good or bad, tell me if its better or worse than expected. Don't tell me if Nvidia had a good quarter, tell me if it was better or worse than expectations.
 
 
-### Hindsigh Bias Free for All by *Barry Ritholtz*
+### [Hindsigh Bias Free for All](https://ritholtz.com/2020/05/hindsight-bias-free-for-all/) by *Barry Ritholtz*
 
 + **Hindsight Bias**: the *ex-post* recollection of the *ex-ante* probability of an event will be biased in the direction of the event's realization.
 
@@ -39,7 +39,7 @@ For example,
 
 > One of the reasons history doesn't repeat or rhyme is because there is always stuff happening that has never happened before.
 
-### The Three Sides of Risk *Morgan Housel*
+### [The Three Sides of Risk](https://www.collaborativefund.com/blog/the-three-sides-of-risk/) by *Morgan Housel*
 
 + **tail-end events**
 
