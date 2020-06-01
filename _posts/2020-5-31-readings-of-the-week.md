@@ -26,6 +26,8 @@ Stock Market, Economy, Expected Return, Street Expectation, Hindsight Bias, Mark
 + **Expected Return**: probability-weighted rates of return on an investment. It is calculated by summing up all products of potential outcome and the change of occuring. For example, if an investment has 10% chance of gaining 20%, 50% chance of gaining 10%, and 40% chance of losing 5%, the expected return is (0.1 * 20% + 0.5 * 10% + 0.4 * (-5%)) = 5% 
 
 
+
+
 ### [This is the Thing The Bears Hate Most](https://thereformedbroker.com/2020/05/26/this-is-the-thing-the-bears-hate-most/) by *Joshua M Brown*
 
 > One very crucial thing about market participants - they don't care about Good or Bad. [...] The only two words that matter - Better or Worse. Don't tell me employment is good or bad, tell me if its better or worse than expected. Don't tell me if Nvidia had a good quarter, tell me if it was better or worse than expectations.
@@ -41,6 +43,8 @@ Stock Market, Economy, Expected Return, Street Expectation, Hindsight Bias, Mark
     + A company typically release its earnings guidance immediately after releasing its latest quarterly earnings report, and may revise upwards or downwards later in the quarter if its outlook changes significantly. 
 
 
+
+
 ### [Hindsigh Bias Free for All](https://ritholtz.com/2020/05/hindsight-bias-free-for-all/) by *Barry Ritholtz*
 
 > But here is the thing: None of the people who remember calling the crash are liars, they are simply humans. Our cognitive processes evolved to facilitate adaptation and survival on the savannah, not financial decision making or capital risk taking in markets. This is why traders are adviced to keep a trading journal, sign a prenup before they make each trade. When they  do their post-mortem for a trade gone wrong, they can see exactly what they were thinking in black & white, freed from the vicissitudes of faulty recall and biased memories. 
@@ -54,12 +58,16 @@ Stock Market, Economy, Expected Return, Street Expectation, Hindsight Bias, Mark
 
 
 
+
 ### [A One-of-a-Kind Market Environment](https://awealthofcommonsense.com/2020/05/a-one-of-a-kind-market-environment/) by *Ben Carlson*
+
+> One of the reasons history doesn't repeat or rhyme is because there is always stuff happening that has never happened before.
 
 + Market Crash: generally considered as abrupt double-digit percentage drop in a stock index over the course of a few days.
     + Well-known U.S. stock market crashes include 1929 Great Depression, Black Monday of 1987, the 2001 dotcom bubble burst, the 2008 financal crisis, and during the 2020 COVID-19 pandemic.
 
-> One of the reasons history doesn't repeat or rhyme is because there is always stuff happening that has never happened before.
+
+
 
 ### [The Three Sides of Risk](https://www.collaborativefund.com/blog/the-three-sides-of-risk/) by *Morgan Housel*
 
@@ -67,11 +75,12 @@ Stock Market, Economy, Expected Return, Street Expectation, Hindsight Bias, Mark
   + **The odds you will get hit.**
   + **The average consequences of getting hit.**
   + **The tail-end consequences of getting hit.**
-        In investing, the average consequences of risk make up most of the daily news headlines. But the tail-end consequences of risk - like pandemics, and depressions - are what make the pages of history books. 
+      In investing, the average consequences of risk make up most of the daily news headlines. But the tail-end consequences of risk - like pandemics, and depressions - are what make the pages of history books. 
 
 + **Tail Risks**: a form of portfolio risk that arises when the possibility that an investment will move more than three standard deviations from the mean is greater than what is shown by a normal distribtion. 
   + Tail risks include events that have a small probability of occuring, and occur at both ends of a normal distribution curve.
   + The assumptions that market returns follow a normal distribution is key to many financial models. Under this assumption, the probability of that returns will move between the mean and three standard deviations, either positive or negative, is approximately 99.7%. However, tail risk suggests that the distribuiton of returns is not normal but skewed and has fatter tails, which indicates a probability (may be small) that an investment will move beyond three standard deviations.
+
 
 
   
